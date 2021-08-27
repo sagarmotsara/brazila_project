@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30578976955",
+    "project_id": "mynotes-67235",
+    "storage_bucket": "mynotes-67235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30578976955:android:33873e868afa278f6fa19e",
+        "android_client_info": {
+          "package_name": "com.example.todoproject_brazila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30578976955-pops1r7l3sktcjo493evb0saeqoq5685.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6sHlGkn4pBhefxQ_PqGXpMHkduzqUdVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30578976955-pops1r7l3sktcjo493evb0saeqoq5685.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
